@@ -13,19 +13,6 @@
   </a>
 </div>
 
----
-
-## 📋 Table of Contents
-
-- [About](#about)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [Support](#support)
-- [License](#license)
-
----
-
 ## 📖 About
 
 byebot shields your server from bot attacks - mass join floods, ping floods, VPN abuse, and other automated threats. It works on both premium and cracked servers, requires no payment, and gives server owners full control through a modern web dashboard.
@@ -37,12 +24,6 @@ byebot shields your server from bot attacks - mass join floods, ping floods, VPN
 - 💰 **100% Free** - No hidden costs or premium tiers
 - 🎛️ **Modern Dashboard** - Full control through an intuitive web interface
 - ⚙️ **Highly Configurable** - Customize protection rules to fit your server needs
-
-## 🚀 Getting Started
-
-Visit our official website for installation guides and documentation:
-- **Website**: [https://byebot.org](https://byebot.org)
-- **Dashboard**: [https://byebot.org/dashboard](https://byebot.org/dashboard)
 
 ## 🤝 Contributing
 
@@ -68,10 +49,3 @@ If the project has been useful to you and you'd like to contribute financially, 
     <img src="https://img.shields.io/badge/❤️%20Donate-Support%20Development-ff69b4?style=for-the-badge&logoColor=white" alt="Donate">
   </a>
 </div>
-
-**Thank you for supporting open-source development!**
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
